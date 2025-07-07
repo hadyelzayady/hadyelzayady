@@ -1,4 +1,4 @@
-## 📦 Full-stack by title, systems-thinker by mindset — Hady Elzayady
+## 📦 Full-stack by title, systems-thinker by mindset
 
 I’m a **full-stack software engineer** with professional experience building scalable, production-grade applications across the stack.
 
