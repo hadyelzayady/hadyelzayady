@@ -59,6 +59,8 @@ On the **backend**, I work with **.NET**, **Go**, **Bun**, and **Java with Sprin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadyelzayady&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+> ⚠️ _Note: GitHub stats only reflect public repositories and contributions._
+
 ---
 
 🔗 [github.com/hadyelzayady](https://github.com/hadyelzayady)
