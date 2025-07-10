@@ -2,7 +2,7 @@
 
 I’m a **full-stack software engineer** with professional experience building scalable, production-grade applications across the stack.
 
-On the **frontend**, I specialize in **React**, delivering performant UIs in production environments. I also explore **SolidJS** in personal projects, diving deep into compiler-driven reactivity and fine-grained updates.
+On the **frontend**, I specialize in **React**, delivering performant UIs in production environments. I also explore **SolidJS** in personal projects.
 
 On the **backend**, I work with **.NET**, **Go**, **Bun**, and **Java with Spring**, building reliable services, optimizing queries over large datasets, and designing distributed systems like custom queue services.
 
@@ -45,7 +45,7 @@ On the **backend**, I work with **.NET**, **Go**, **Bun**, and **Java with Sprin
 
 - Distributed architectures and observability  
 - Advanced Rust and backend tooling  
-- SolidJS internals and reactivity at the compiler level
+- SolidJS
 
 ---
 
